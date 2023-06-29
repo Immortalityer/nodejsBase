@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/www.js",
+  "scripts": {
+    "dev": "nodemon bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
